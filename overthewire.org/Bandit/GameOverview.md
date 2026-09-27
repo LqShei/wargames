@@ -1,6 +1,6 @@
 <img width="2519" height="1487" alt="image" src="https://github.com/user-attachments/assets/a44cb8be-46c8-4139-8b3b-a27bc61ce4b4" />
 
-# Bandit
+# Bandit https://overthewire.org/wargames/
 
 The Bandit wargame is aimed at absolute beginners. It will teach the basics needed to be able to play other wargames. **If you notice something essential is missing or have ideas for new levels, please let us know!**
 
