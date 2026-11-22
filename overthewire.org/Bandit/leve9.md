@@ -21,3 +21,9 @@ VR1ljMayciFxbnUokuQmJFw6QC9VKtub
 ------
 
 ### 
+
+```
+sort data.txt | uniq -u
+```
+<img width="739" height="140" alt="image" src="https://github.com/user-attachments/assets/55b31368-1c91-45f0-b9c4-923d7cf34f58" />
+
